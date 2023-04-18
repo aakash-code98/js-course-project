@@ -1,0 +1,10 @@
+body {
+  background-color: #1b0e09;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  color: whitesmoke;
+}
+h1 {
+  text-align: center;
+}
